@@ -40,7 +40,7 @@
 - Type your access key ID and password and type your region name.
 - Type the following command and mention your unique bucket name and your region.
 
-  ```aws s3api create-bucket --bucket aayusss2101-aws-assignment --region us-east-1```
+  ```aws s3api create-bucket --bucket task1bucket --region us-east-1```
 
 ## Task 2
 

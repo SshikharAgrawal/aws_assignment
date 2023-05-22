@@ -5,7 +5,7 @@ from datetime import datetime
 
 def lambda_handler(event, context):
 
-    BUCKET_NAME = 'shikhar-bucket121001'
+    BUCKET_NAME = 'task1bucket'
     now = str(datetime.now())
 
     data={}

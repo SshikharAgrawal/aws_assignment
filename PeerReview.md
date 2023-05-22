@@ -1,5 +1,7 @@
 **Shubham's Review**
 
+Github Link:- https://github.com/shubhamjhawar/aws
+
 ## Question 1 
 Used cli and boto to create roles and ec2 instances 
 
@@ -11,6 +13,8 @@ Created an POST API on API Gateway, for sending the api from local machien he us
 
 
 **Kushagra's Review**
+
+Github Link:- https://github.com/ovalswordsman/aws
 
 ## Question 1 
 In Task 1, the code successfully creates an IAM role, attaches a policy, creates an S3 bucket, and launches an EC2 instance. The code is concise and uses appropriate method calls to achieve the desired actions.
